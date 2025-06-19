@@ -21,10 +21,10 @@ I especially enjoy traveling solo to different countries to watch concerts -- th
 > Kyoto; NCT127 3rd Tour: Neo City - The Unity in Osaka
 
 ![Wakayama](images/Wakayama.jpg)
-> Wakayama; TDS3
+> Wakayama; The Dream Show 3: Dream()scape by NCT DREAM
 
 ![Shirahama](images/Shirahama.jpg)
-> Shirahama; TDS3
+> Shirahama; The Dream Show 3: Dream()scape by NCT DREAM
 
 ![Uji](images/Uji.jpg)
-> Uji; TDS3
+> Uji; The Dream Show 3: Dream()scape by NCT DREAM
