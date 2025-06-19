@@ -14,4 +14,4 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 - A personal reflection on transitioning careers
 
 ## I am a K-pop lover!
-
+I especially enjoy traveling solo to different countries to watch concerts.  
