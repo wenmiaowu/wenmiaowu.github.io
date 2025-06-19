@@ -1,3 +1,3 @@
-title: how i understand DEI
+## How did I approach DEI
 
-## Why I care ... 
+Seminar, [CUHK](https://clear.cuhk.edu.hk/web/professional-development-pd/seminars-workshops-events/diversity-ai-and-higher-education-hybrid-seminar/)
