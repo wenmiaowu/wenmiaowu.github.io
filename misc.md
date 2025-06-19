@@ -17,3 +17,4 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 I especially enjoy traveling solo to different countries to watch concerts.  
 
 ![Kyoto](images/Kyoto1.jpg)
+> Kyoto; NCT127 3rd Tour: Neo City - The Unity in Osaka
