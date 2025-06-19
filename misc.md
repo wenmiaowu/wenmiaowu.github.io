@@ -23,8 +23,8 @@ I especially enjoy traveling solo to different countries to watch concerts -- th
 ![Wakayama](images/Wakayama.jpg)
 > Wakayama; TDS3
 
-![Shirahama](imagaes/Shirahama.jpg)
+![Shirahama](images/Shirahama.jpg)
 > Shirahama; TDS3
 
-![Uji](images/Uij.jpg)
+![Uji](images/Uji.jpg)
 > Uji; TDS3
