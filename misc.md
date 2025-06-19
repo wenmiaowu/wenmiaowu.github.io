@@ -15,7 +15,7 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 - [How do I understand DEI](inspirations/DEI.md)
  
 ## I am a K-pop lover!
-I especially enjoy traveling solo to different countries to watch concerts -- though I'm not much of a photographer ;)
+I especially enjoy traveling solo to different places to watch concerts -- though I'm not much of a photographer ;)
 
 ![Kyoto](images/Kyoto1.jpg)
 > Kyoto; NCT127 3rd Tour: Neo City - The Unity in Osaka
