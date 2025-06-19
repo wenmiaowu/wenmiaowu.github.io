@@ -11,6 +11,7 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 
 ## Inspirations
 >To me, adulthood is all about knowing who I am — a journey that takes time, practice, and wisdom.
+
 - A quote or idea that moved me
 - A personal reflection on transitioning careers
 - [How do I understand DEI](inspirations/DEI.md)
