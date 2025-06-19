@@ -3,7 +3,7 @@
 
 This is a space for everything that doesn’t fit neatly into my Projects or Writing — including reflections, inspirations, side quests, and maybe some lighter content as well. ✨
 
-## Blog for fun
+## Blog
 - Random projects
 - What I've learnt from doing workouts (badminton, running etc)
 - A personal reflection on transitioning careers
