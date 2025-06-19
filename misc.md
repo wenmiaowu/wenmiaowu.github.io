@@ -5,7 +5,7 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 
 ## Blog for fun
 - Random projects
-- Book reviws
+- Book reviews
 - Personal reflections
 - What I've learnt from doing workouts (badminton, running etc)
 
