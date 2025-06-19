@@ -5,4 +5,7 @@ description: >-
 baseurl: ""
 url: "https://wenmiaowu.github.io"
 
+ - title: 🗓️ Updates
+    url: /updates
+
 theme: jekyll-theme-minimal
