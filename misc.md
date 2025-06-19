@@ -12,7 +12,8 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 ## Inspirations
 - A quote or idea that moved me
 - A personal reflection on transitioning careers
-
+- [How do I understand DEI](inspirations/DEI.md)
+ 
 ## I am a K-pop lover!
 I especially enjoy traveling solo to different countries to watch concerts.  
 
