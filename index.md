@@ -17,7 +17,7 @@ Coming soon.
 Coming soon.
 
 ## Miscellaneous
-
+🔗 [See more here](misc.html)
 
 ## Contact
 
