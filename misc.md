@@ -15,3 +15,5 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 
 ## I am a K-pop lover!
 I especially enjoy traveling solo to different countries to watch concerts.  
+
+![Kyoto] (images/Kyoto1.jpg)
