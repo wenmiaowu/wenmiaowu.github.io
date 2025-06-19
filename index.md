@@ -8,13 +8,13 @@ I hold two master's degrees and have spent the last several years engaged in res
 
 Coming soon.
 
-## Resume
-
-📄 [View My Resume (PDF)](Wenmiao_CV.pdf)
-
 ## Writings
 
 Coming soon.
+
+## Resume
+
+📄 [View My Resume (PDF)](Wenmiao_CV.pdf)
 
 ## Miscellaneous
 🔗 [See more here](misc.html)
