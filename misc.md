@@ -5,14 +5,14 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 
 ## Blog for fun
 - Random projects
-- Book reviews
-- Personal reflections
 - What I've learnt from doing workouts (badminton, running etc)
 - A personal reflection on transitioning careers
 - [How do I understand DEI](inspirations/DEI.md)
 
 ## Inspirations
 >To me, adulthood is all about knowing who I am — a journey that takes time, practice, and wisdom.
+
+- A quote or idea that moved me.
  
 ## I am a K-pop lover!
 I especially enjoy traveling solo to different places to watch concerts -- though I'm not much of a photographer ;)
