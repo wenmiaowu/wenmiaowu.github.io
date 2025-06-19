@@ -14,7 +14,10 @@ Coming soon.
 
 ## Writings
 
+Coming soon.
+
 ## Miscellaneous
+
 
 ## Contact
 
