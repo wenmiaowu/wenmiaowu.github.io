@@ -19,3 +19,12 @@ I especially enjoy traveling solo to different countries to watch concerts.
 
 ![Kyoto](images/Kyoto1.jpg)
 > Kyoto; NCT127 3rd Tour: Neo City - The Unity in Osaka
+
+![Wakayama](images/Wakayama.jpg)
+> Wakayama; TDS3
+
+![Shirahama](imagaes/Shirahama.jpg)
+> Shirahama; TDS3
+
+![Uji](images/Uij.jpg)
+> Uji; TDS3
