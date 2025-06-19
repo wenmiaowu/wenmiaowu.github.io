@@ -12,14 +12,11 @@ Coming soon.
 
 📄 [View My Resume (PDF)](Wenmiao_CV.pdf)
 
+## Writings
+
+## Miscellaneous
+
 ## Contact
 
 📧 wenmiao.wu@link.cuhk.edu.hk  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-
-## Writings
-
-### Academic writings
-### Blog
-
-## Miscellaneous
