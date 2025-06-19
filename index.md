@@ -19,4 +19,7 @@ Coming soon.
 
 ## Writings
 
+### Academic writings
+### Blog
+
 ## Miscellaneous
