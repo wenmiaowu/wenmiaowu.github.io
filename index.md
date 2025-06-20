@@ -22,4 +22,4 @@ Coming soon.
 ## Contact
 
 📧 wenmiao.wu@link.cuhk.edu.hk  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+🔗 [LinkedIn](https://www.linkedin.com/in/wenmiao-wu-7a91ba179/)
