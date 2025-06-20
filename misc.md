@@ -15,7 +15,7 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 - A quote or idea that moved me.
  
 ## I am a K-pop lover!
-I especially enjoy traveling solo to different places to watch concerts -- though I'm not much of a photographer ;)
+I especially enjoy traveling solo to different places to watch concerts -- though I'm not much of a photographer ;) 
 
 ![Kyoto](images/Kyoto1.jpg)
 > Kyoto; NCT127 3rd Tour: Neo City - The Unity in Osaka
@@ -28,3 +28,6 @@ I especially enjoy traveling solo to different places to watch concerts -- thoug
 
 ![Uji](images/Uji.jpg)
 > Uji; The Dream Show 3: Dream()scape by NCT DREAM
+
+![Nagoya](images/Nagoya.jpg)
+> Nagoya; The Dream Show 3: Dream()scape by NCT DREAM
