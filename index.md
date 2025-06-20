@@ -1,4 +1,4 @@
-I’m a researcher transitioning into data, ESG, and quantitative analysis. I'm skilled in R and Stata, and currently learning SQL and Python.
+I’m a researcher actively transitioning into data, ESG, and quantitative analysis. I'm skilled in R and Stata, and currently learning SQL and Python.
 
 ## About Me
 
