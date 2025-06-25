@@ -7,7 +7,7 @@ This is a space for everything that doesn’t fit neatly into my Projects or Wri
 I wasn’t sure if I should start a blog, but I want to keep track of my learning journey — even if it’s messy.
 
 - Random projects
-- What I've learnt from doing workout (badminton, running etc)
+- [What I've learnt from doing workout (badminton, running etc)](inspirations/running.md)
 - A personal reflection on transitioning careers
 - [How do I understand DEI](inspirations/DEI.md)
 
