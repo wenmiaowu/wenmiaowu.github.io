@@ -4,6 +4,8 @@
 This is a space for everything that doesn’t fit neatly into my Projects or Writing — including reflections, inspirations, side quests, and maybe some lighter content as well. ✨
 
 ## Blog
+I wasn’t sure if I should start a blog, but I want to keep track of my learning journey — even if it’s messy.
+
 - Random projects
 - What I've learnt from doing workouts (badminton, running etc)
 - A personal reflection on transitioning careers
