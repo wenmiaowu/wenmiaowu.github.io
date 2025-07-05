@@ -5,3 +5,5 @@ Running - or doing any kind of workout, like weight training or playing badminto
 It also is about self-care, and maybe even self-love. I started working out because I want to stay healthy. But I used to be a bit pushy, pushing myself to run harder, staying longer on the treadmill. I am not sure if this is a good mindset to be honest. 
 
 Maybe small wins matter too. Maybe they matter more than we think. 
+
+5 Jul 2025: Rest is not just "doing nothing" - it's part of the "workout" as well. 
